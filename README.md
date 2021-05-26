@@ -1,2 +1,2 @@
 # calculator
-A simple calculator which can be used on any device
+A simple calculator which can be played on any device.
